@@ -1,6 +1,5 @@
-1) What is Checksum? 
+#CHECKSUM: 
 
-ans:
 - Checksums are used to ensure the integrity of a file after it has been transmitted from one storage device to another.
 - This can be across the Internet or simply between two computers on the same network. Either way, if you want to ensure that the transmitted file is exactly the same as the source file, you can use a checksum. 
 - Importance To check the data integrity of the stored data. To have the data transferred or read completely without any voids and breaks in between to avaoid data corruption Checksum in hadoop The HDFS client software implements checksum checker.
